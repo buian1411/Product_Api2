@@ -1,0 +1,6 @@
+@Danh_sách_sản_phẩm_HostAddress = http://localhost:5209
+
+GET {{Danh_sách_sản_phẩm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
